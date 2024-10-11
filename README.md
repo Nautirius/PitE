@@ -1,2 +1,2 @@
 # PitE
-Python in the Enterprise course AGH
+AGH Python in the Enterprise course
