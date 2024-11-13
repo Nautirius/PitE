@@ -1,0 +1,1054 @@
+{
+    "classes": {
+        "year_1": {
+            "class_a": {
+                "students": [
+                    {
+                        "first_name": "Alice",
+                        "last_name": "Smith",
+                        "index_number": 1,
+                        "subjects": {
+                            "english": {
+                                "grades": [
+                                    4,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    4,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "chemistry": {
+                                "grades": [
+                                    4,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Alex",
+                        "last_name": "Jones",
+                        "index_number": 2,
+                        "subjects": {
+                            "english": {
+                                "grades": [
+                                    4,
+                                    4.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    3.5,
+                                    2,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "chemistry": {
+                                "grades": [
+                                    3,
+                                    3.5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Marie",
+                        "last_name": "Curie",
+                        "index_number": 3,
+                        "subjects": {
+                            "english": {
+                                "grades": [
+                                    4,
+                                    4.5,
+                                    4.5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    4.5,
+                                    5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "chemistry": {
+                                "grades": [
+                                    5,
+                                    5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Alexander",
+                        "last_name": "Dumas",
+                        "index_number": 4,
+                        "subjects": {
+                            "english": {
+                                "grades": [
+                                    5,
+                                    5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    3.5,
+                                    3.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": false
+                                }
+                            },
+                            "chemistry": {
+                                "grades": [
+                                    3,
+                                    3.5,
+                                    2
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "class_b": {
+                "students": [
+                    {
+                        "first_name": "Ernest",
+                        "last_name": "Hemingway",
+                        "index_number": 5,
+                        "subjects": {
+                            "english": {
+                                "grades": [
+                                    4,
+                                    5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    4,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": false
+                                }
+                            },
+                            "chemistry": {
+                                "grades": [
+                                    4,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Jane",
+                        "last_name": "Austin",
+                        "index_number": 6,
+                        "subjects": {
+                            "english": {
+                                "grades": [
+                                    5,
+                                    5,
+                                    4.5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    2,
+                                    2,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": false
+                                }
+                            },
+                            "chemistry": {
+                                "grades": [
+                                    3,
+                                    3.5,
+                                    2
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Albert",
+                        "last_name": "Camus",
+                        "index_number": 7,
+                        "subjects": {
+                            "english": {
+                                "grades": [
+                                    5,
+                                    4.5,
+                                    4.5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    4.5,
+                                    4.5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "chemistry": {
+                                "grades": [
+                                    3,
+                                    4,
+                                    3.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Frank",
+                        "last_name": "Herbert",
+                        "index_number": 8,
+                        "subjects": {
+                            "english": {
+                                "grades": [
+                                    5,
+                                    5,
+                                    4.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    5,
+                                    3.5,
+                                    4
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "chemistry": {
+                                "grades": [
+                                    2,
+                                    3.5,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "class_c": {
+                "students": [
+                    {
+                        "first_name": "Michel",
+                        "last_name": "Foucault",
+                        "index_number": 9,
+                        "subjects": {
+                            "english": {
+                                "grades": [
+                                    5,
+                                    5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    3,
+                                    4,
+                                    2
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": false
+                                }
+                            },
+                            "chemistry": {
+                                "grades": [
+                                    4,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Erik",
+                        "last_name": "Bahnhof",
+                        "index_number": 10,
+                        "subjects": {
+                            "english": {
+                                "grades": [
+                                    2,
+                                    2,
+                                    4.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    2.5,
+                                    3,
+                                    4
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "chemistry": {
+                                "grades": [
+                                    3,
+                                    4,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Marek",
+                        "last_name": "Grudziaz",
+                        "index_number": 11,
+                        "subjects": {
+                            "english": {
+                                "grades": [
+                                    5,
+                                    4.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    4.5,
+                                    3,
+                                    4
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "chemistry": {
+                                "grades": [
+                                    3.5,
+                                    4,
+                                    3.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Anna",
+                        "last_name": "Skoczylas",
+                        "index_number": 12,
+                        "subjects": {
+                            "english": {
+                                "grades": [
+                                    3,
+                                    5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    2,
+                                    3.5,
+                                    4.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "chemistry": {
+                                "grades": [
+                                    2.5,
+                                    4,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "year_2": {
+            "class_a": {
+                "students": [
+                    {
+                        "first_name": "John",
+                        "last_name": "Doe",
+                        "index_number": 13,
+                        "subjects": {
+                            "french": {
+                                "grades": [
+                                    4,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    2,
+                                    3.5,
+                                    4
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "physics": {
+                                "grades": [
+                                    4,
+                                    3.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Andre",
+                        "last_name": "Rieu",
+                        "index_number": 14,
+                        "subjects": {
+                            "french": {
+                                "grades": [
+                                    4.5,
+                                    4,
+                                    4.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    3.5,
+                                    2.5,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "physics": {
+                                "grades": [
+                                    3.5,
+                                    3,
+                                    4
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Marie",
+                        "last_name": "Antoinette",
+                        "index_number": 15,
+                        "subjects": {
+                            "french": {
+                                "grades": [
+                                    3.5,
+                                    4.5,
+                                    3,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    3,
+                                    2,
+                                    2.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": false
+                                }
+                            },
+                            "physics": {
+                                "grades": [
+                                    2
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": true,
+                                    "2024-09-03": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Furina",
+                        "last_name": "Fontaine",
+                        "index_number": 16,
+                        "subjects": {
+                            "french": {
+                                "grades": [
+                                    5,
+                                    4.5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    3,
+                                    2.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": false
+                                }
+                            },
+                            "physics": {
+                                "grades": [
+                                    3,
+                                    2,
+                                    2
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": false
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "class_b": {
+                "students": [
+                    {
+                        "first_name": "Olivier",
+                        "last_name": "Cromwell",
+                        "index_number": 17,
+                        "subjects": {
+                            "french": {
+                                "grades": [
+                                    2,
+                                    3,
+                                    2
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    2.5,
+                                    3,
+                                    4
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "physics": {
+                                "grades": [
+                                    4.5,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Max",
+                        "last_name": "Verstappen",
+                        "index_number": 18,
+                        "subjects": {
+                            "french": {
+                                "grades": [
+                                    3,
+                                    4,
+                                    3.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    3.5,
+                                    4.5,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "physics": {
+                                "grades": [
+                                    5,
+                                    4.5,
+                                    4
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Marinette",
+                        "last_name": "Dupain-Cheng",
+                        "index_number": 19,
+                        "subjects": {
+                            "french": {
+                                "grades": [
+                                    4.5,
+                                    4.5,
+                                    5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    3,
+                                    2.5,
+                                    2.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "physics": {
+                                "grades": [
+                                    2,
+                                    3.5,
+                                    4
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Alex",
+                        "last_name": "Smith",
+                        "index_number": 20,
+                        "subjects": {
+                            "french": {
+                                "grades": [
+                                    4,
+                                    3.5,
+                                    2
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": false
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    3,
+                                    2,
+                                    2
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": false
+                                }
+                            },
+                            "physics": {
+                                "grades": [
+                                    4,
+                                    3,
+                                    4
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "class_c": {
+                "students": [
+                    {
+                        "first_name": "Brad",
+                        "last_name": "Pitt",
+                        "index_number": 21,
+                        "subjects": {
+                            "french": {
+                                "grades": [
+                                    4,
+                                    3.5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    2,
+                                    3,
+                                    2
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "physics": {
+                                "grades": [
+                                    3,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Jeanne",
+                        "last_name": "Clichy",
+                        "index_number": 22,
+                        "subjects": {
+                            "french": {
+                                "grades": [
+                                    5,
+                                    4,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    2,
+                                    2,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": false,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "physics": {
+                                "grades": [
+                                    4.5,
+                                    3.5,
+                                    2
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Ignacy",
+                        "last_name": "Rzecki",
+                        "index_number": 23,
+                        "subjects": {
+                            "french": {
+                                "grades": [
+                                    4,
+                                    4.5,
+                                    4,
+                                    4
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    5,
+                                    4.5,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "physics": {
+                                "grades": [
+                                    3,
+                                    3,
+                                    4.5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "first_name": "Franz",
+                        "last_name": "Kafka",
+                        "index_number": 24,
+                        "subjects": {
+                            "french": {
+                                "grades": [
+                                    4,
+                                    4,
+                                    5
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "math": {
+                                "grades": [
+                                    3,
+                                    2.5,
+                                    3
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": false,
+                                    "2024-09-03": true
+                                }
+                            },
+                            "physics": {
+                                "grades": [
+                                    4,
+                                    3.5,
+                                    2
+                                ],
+                                "attendance": {
+                                    "2024-09-01": true,
+                                    "2024-09-02": true,
+                                    "2024-09-03": false
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

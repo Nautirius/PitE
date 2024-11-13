@@ -1,0 +1,48 @@
+library - tools, D.R.Y., tested (hopefully) and optimised
+
+framework - set of rules that we impose on ourselves that we need to adhere to
+(an approach rather than solution to a problem)
+
+########################################################################################################################
+
+pandas - wrapper to numpy
+built in pure c lang - much faster than python list - orders of magnitude faster
+data analysis, large amounts of data - must have
+
+structured data -> pandas
+numpy -> a bunch of data, ex. a lot of numbers coming from a detector
+
+different data structures:
+numpy -> ndarray, tensor
+
+pandas -> thick structure
+
+########################################################################################################################
+
+flask, django - web dev frameworks
+
+flask - lightweight, more flexible, small to medium projects
+
+django - big, consistent projects, thick structure, MVC
+
+python is not dominant on the market (open source? - have to keep it open and companies don't like it!)
+
+########################################################################################################################
+
+matplotlib - plotting graphs
+
+seaborn - heatmaps, visualization
+
+in matplotlib we specify what we want
+seaborn is a higher-level visualization library (more complicated plots, further analysis, correlation)
+
+plotly
+
+########################################################################################################################
+
+packages - bundling-up many files so that the code is easily-usable
+
+pyproject.toml for packaging - meta description
+
+command-line Entry Point - a callable, called after installing the package
+

@@ -1,0 +1,24 @@
+Docker deployment
+
+Functional programming
+- code does what we want it to do
+- no side effects
+- data structures (data) do not change
+- input is immutable
+
+- iterators, generators
+- important when we pass functions as arguments (flow of data)
+
+- immutability - tuple
+- thread safety
+
+- pure functions - no modifying external values, no side effects
+- we have to specifically access external values by the global keyword to change it
+- always returns the same output for the same input
+
+- easier tests (not dependent on external state)
+- simplified debugging
+
+Django
+- MTV Model Template View
+- MVC Model View Controller

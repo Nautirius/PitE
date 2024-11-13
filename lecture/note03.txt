@@ -1,0 +1,28 @@
+Testing
+
+unit testing
+
+we should create tests while writing code
+
+unittest library
+- setUp  - runs before every test
+- @classmethod setUpClass(cls) - runs once
+
+mocking
+- isolate unit of code
+- setting up values for specific cases
+- control external dependencies
+- simulate edge cases
+- improve test performance
+
+unit test targets a specific thing (very directed)
+for mock the task is bigger (connects different modules, input)
+
+debugging
+
+profiling
+- trying to understand how fast is your code running and what part of code runs how fast
+- finding bottlenecks, improving on them
+- only when we need to optimize code
+- @profiling wrapper (code to copy from the internet)
+- easy to find bottlenecks
