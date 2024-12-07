@@ -2,9 +2,9 @@
     "year_1": {
         "total_students": 12,
         "subject_averages": {
-            "english": 4.541666666666667,
             "chemistry": 3.5757575757575757,
-            "math": 3.5606060606060606
+            "math": 3.5606060606060606,
+            "english": 4.541666666666667
         }
     },
     "year_2": {
